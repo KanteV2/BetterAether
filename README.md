@@ -8,6 +8,6 @@
 - Improved optimization
 
 ## Credits
-- iiDk: original template
-- zyro: original concept
-- join his server: https://discord.gg/KXABTbrQx2
+- iiDk: Original template
+- zyro: Original concept
+- Join his server: https://discord.gg/KXABTbrQx2
